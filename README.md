@@ -1,6 +1,6 @@
 
 
-![Influxdata-Python-Time-series-prediction](Viz/ "Legend")
+![Influxdata-Python-Time-series-prediction](Viz/tableau de bord1.png "Legend")
 
 
 
