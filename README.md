@@ -1,6 +1,6 @@
 
 
-![Influxdata-Python-Time-series-prediction](Viz/tableau de bord1.png "Legend")
+![Influxdata-Python-Time-series-prediction](Viz/linear_logistic_prophet.png "Legend")
 
 
 
